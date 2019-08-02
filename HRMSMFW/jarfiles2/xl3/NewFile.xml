@@ -1,0 +1,12 @@
+<suite name="Default su" parallel="tsts">
+  <test name="Default tt" >
+   <packages>
+      <package name="hello.reg.*"/>
+   </packages>
+  </test>
+  <test name="vhha">
+   <packages>
+      <package name="hello.sant.*"/>
+   </packages>
+  </test>
+</suite> 

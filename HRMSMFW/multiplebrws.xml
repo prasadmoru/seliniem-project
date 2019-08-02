@@ -1,0 +1,12 @@
+<suit name="ddghfg" parallel="srdy">
+<test name="tygkj">
+     <packages>
+        <package name="com.hrms.regress"/>
+     </packages>
+</test>
+<test neme="ffgf">
+     <packages>
+        <package name="com.hrms.smoke"/>
+     </packages>
+</test>
+</suit>
